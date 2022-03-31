@@ -25,10 +25,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
    
    <br></br>
-   ### Contatos:
-  <div>
-  <a href="https://www.linkedin.com/in/gabriel-deciomo-martins-6468b91b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  </div>
 </div>
 
 ![Snake animation](https://github.com/Gab360riel/Gab360riel/blob/output/github-contribution-grid-snake.svg)
+
+### Contatos:
+  <div>
+  <a href="https://www.linkedin.com/in/gabriel-deciomo-martins-6468b91b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
