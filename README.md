@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gab360riel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <br></br>
-  ### Tenho conhecimento:
+  ### I have Knowledge:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
@@ -23,14 +23,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
    <br></br>
    
-  ### Estou aprendendo:
+  ### I'm Learning:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="40" height="40"/>
    <br></br>
 </div>
 
 ![Snake animation](https://github.com/Gab360riel/Gab360riel/blob/output/github-contribution-grid-snake.svg)
 
-### Contatos:
+### Contacts:
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <!--   <img src="https://komarev.com/ghpvc/?username=Gab360riel&style=flat-square&color=blue" alt=""/> -->
