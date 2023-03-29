@@ -31,6 +31,10 @@
 ![Snake animation](https://github.com/Gab360riel/Gab360riel/blob/output/github-contribution-grid-snake.svg)
 
 ### Contatos:
-  <div>
-  <a href="https://www.linkedin.com/in/gabriel-deciomo-martins-6468b91b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=Gab360riel&style=flat-square&color=blue" alt=""/> -->
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-deciomo-martins-6468b91b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
