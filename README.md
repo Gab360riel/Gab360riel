@@ -27,8 +27,6 @@
    <br></br>
 </div>
 
-![Snake animation](https://github.com/Gab360riel/Gab360riel/blob/output/github-contribution-grid-snake.svg)
-
 ### Contacts:
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
