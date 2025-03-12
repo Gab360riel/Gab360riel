@@ -31,7 +31,8 @@
 
 ## 🐍 Snake animation
 
-![Snake animation](https://github.com/Gab360riel/Gab360riel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://Gab360riel.github.io/snake-animation/github-contribution-grid-snake.svg)
+
 
 ### Contacts:
 <div align="center">
